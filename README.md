@@ -30,7 +30,16 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <hr>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehak-amin)](https://github.com/mehak-amin)
+<div >
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehak-amin&layout=compact" alt="Top Languages">
+  <br>
+  <br>
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mehak-amin" alt="Mehak Amin's GitHub Stats">
+</div>
+
 
 
 
