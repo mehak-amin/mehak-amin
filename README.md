@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building Creative Responsive WebDesigns**
 
-- 🌱 I’m currently learning **React.js , MongoDB**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Html,CSS,Bootstrap, Javascript,Sql**
 
